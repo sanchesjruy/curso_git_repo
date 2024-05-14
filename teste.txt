@@ -3,6 +3,5 @@ esta dificil
 a
 b
 c
-dificile
-f
-g
+aprendendo git
+
