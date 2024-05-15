@@ -1,4 +1,0 @@
-ola mundo!
-teste de
-diferenca usando diff
-qual a diferenca
